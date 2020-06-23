@@ -12,4 +12,4 @@ Q4. Given a 3x3 image, we want to enlarge the image to a 5x5 image through bilin
 interpolation and nearest neighbor. Estimate the resulting 5x5 images after applying these
 methods respectively.
 
-![image matrix](https://github.com/ShambhawiVarchasva/Image-Scale/blob/master/image.jpg?raw=true)
+![image matrix](https://github.com/ShambhawiVarchasva/Image-Scale/blob/master/img.jpg?raw=true)
